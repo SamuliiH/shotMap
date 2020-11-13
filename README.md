@@ -2,7 +2,7 @@
 
 ![onGamePlay](https://user-images.githubusercontent.com/74422288/99131036-b86ba680-261a-11eb-94c8-c126bcb4781e.gif)
 
-**Change team by clicking Team name or pressing A or D. Start/pause game by clicking "Starts/pause button" or pressing SPACE. Adjust timer when game is paused by clicking arrows or pressing left/right on keyboard!** 
+**Change team by clicking team name or pressing A or D. Start/pause game by clicking "Starts/pause button" or pressing SPACE. Adjust timer when game is paused by clicking arrows or pressing left/right on keyboard!** 
 
 ---
 
