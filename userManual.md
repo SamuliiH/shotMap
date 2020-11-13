@@ -9,5 +9,7 @@ User starts game by pressing a "start button" or "Space". Addjusting the timer i
 
 Choose shooting team by clicking name of the team or pressing A or D on keyboard. The arrow next to the name indicates the current shooting direction.
 ![teams](https://user-images.githubusercontent.com/74422288/99128017-62930080-2612-11eb-8141-8a4f39dcab51.PNG)
+
+When timer is on and the correct team is selected, the user should click the shooting area by clicking mouse -> shot will be saved. When game is paused, user can addjust time and review shots. User can modify shots by clicking puck -> "shot editor" will open on right side of the page and all the details of the shot are visible. 
 ![updateShot](https://user-images.githubusercontent.com/74422288/99128025-66268780-2612-11eb-80c3-e13b79edda0b.PNG)
 ![timer](https://user-images.githubusercontent.com/74422288/99128035-69ba0e80-2612-11eb-9271-1437e85bd60b.PNG)
