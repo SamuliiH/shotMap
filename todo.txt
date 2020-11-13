@@ -1,0 +1,15 @@
+- Keyboard listening on Game.svelte and pass as a prop
+
+- setup data to defaultSetups.js and pass as a props
+
+- Props App.svelte
+
+- Choose team -> toimimaan oikein DONE!
+
+- Start game button ja previous game -> Gamesetup sivulle DONE!
+
+- After game -> Game sivulle. Mayby NO?
+
+- Animaatiot Gamesetup ja Game sivuille Done!
+
+- Shoteditoriin klikkaamalla ja muuta lähetä nappi -> change shots 
