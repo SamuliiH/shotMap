@@ -3,6 +3,8 @@ Here users can choose rink sizes between NHL and European rink. Users can also c
 
 ![noTeamName](https://user-images.githubusercontent.com/74422288/99128001-5a3ac580-2612-11eb-8d7b-bca96fdc12a9.PNG)
 ![noTeamSelected](https://user-images.githubusercontent.com/74422288/99128003-5c048900-2612-11eb-9a61-b5ba6bddb7b0.PNG)
+
+User starts game by pressing a "start button" or "Space". Addjusting the timer is possible by clicking arrows or pressing the left/right arrow on keyboard.
 ![onGame](https://user-images.githubusercontent.com/74422288/99128009-5dce4c80-2612-11eb-9e24-09a7ccbad9f7.PNG)
 ![teams](https://user-images.githubusercontent.com/74422288/99128017-62930080-2612-11eb-8141-8a4f39dcab51.PNG)
 ![updateShot](https://user-images.githubusercontent.com/74422288/99128025-66268780-2612-11eb-80c3-e13b79edda0b.PNG)
