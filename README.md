@@ -4,6 +4,7 @@
 
 Change team by clicking or pressing A or D. Start/pause game by clicking "Starts/pause button" or pressing SPACE. Adjust timer when game is paused by clicking arrows or pressing left/right on keyboard! 
 
+---
 
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
