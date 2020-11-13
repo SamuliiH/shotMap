@@ -1,4 +1,4 @@
-
+Here users can choose rink sizes between NHL and European rink. Users can also choose the number of periods and minutes per period and teams (1 or 2 teams) and the name of the team.  If no team is selected, the user can't continue to the game. Teams must also have names.
 ![firstPage](https://user-images.githubusercontent.com/74422288/99127996-54dd7b00-2612-11eb-92b1-f536917237a5.PNG)
 
 ![noTeamName](https://user-images.githubusercontent.com/74422288/99128001-5a3ac580-2612-11eb-8d7b-bca96fdc12a9.PNG)
