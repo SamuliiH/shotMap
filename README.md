@@ -1,4 +1,4 @@
-## Create icehockey heatmaps using ShotMap website: 
+## Create icehockey heatmaps using Shotap website: 
 https://shotmap.surge.sh/
 
 ![onGamePlay](https://user-images.githubusercontent.com/74422288/99131036-b86ba680-261a-11eb-94c8-c126bcb4781e.gif)
