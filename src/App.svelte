@@ -1,7 +1,7 @@
 <script>
   import { fade } from 'svelte/transition';
-	import Gamesetup from './gamesetup/Gamesetup.svelte';
-	import Game from './game/Game.svelte';
+  import Gamesetup from './gamesetup/Gamesetup.svelte';
+  import Game from './game/Game.svelte';
   import AfterGame from './aftergame/AfterGame.svelte';
 
   let readyToPlay = false;
